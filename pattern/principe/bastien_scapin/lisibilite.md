@@ -20,4 +20,8 @@ http://www.ergolab.net/articles/faciliter-lecture-informations-web.php
 
 +!Guidage
 
++!Incitation
++!Groupement / Distinction entre items
++!Feedback Immédiat
+
 +!BastienScapin

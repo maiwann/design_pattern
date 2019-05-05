@@ -18,4 +18,6 @@ Choisir efficacement que parmi un nombre d'informations restreint.
 
 +!Charge de travail
 
++!Brieveté
+
 +!BastienScapin

@@ -22,4 +22,8 @@ Distinguer des éléments par le format, c'est attribuer des formats différents
 
 +!Guidage
 
++!Incitation
++!Feedback Immédiat
++!Lisibilité
+
 +!BastienScapin

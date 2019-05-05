@@ -13,4 +13,8 @@ Faire connaître à l'utilisateur le contexte dans lequel il se trouve et les ac
 
 +!Guidage
 
++!Groupement / Distinction entre items
++!Feedback Immédiat
++!Lisibilité
+
 +!BastienScapin
